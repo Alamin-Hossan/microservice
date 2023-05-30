@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$USER_HOME$/gradle-8.1.1" />
+        <option name="gradleJvm" value="corretto-11" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/APIGateway" />
+            <option value="$PROJECT_DIR$/Book" />
+            <option value="$PROJECT_DIR$/EurekaServer" />
+            <option value="$PROJECT_DIR$/Order" />
+            <option value="$PROJECT_DIR$/Payment" />
+            <option value="$PROJECT_DIR$/configServerV2" />
+            <option value="$PROJECT_DIR$/payment-app" />
+            <option value="$PROJECT_DIR$/product-app" />
+            <option value="$PROJECT_DIR$/user" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
